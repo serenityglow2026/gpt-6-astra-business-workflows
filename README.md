@@ -8,7 +8,7 @@ The goal is to move beyond isolated prompt lists and show how AI can be structur
 
 ## What's inside
 
-This first release contains **15 practical workflow templates**. Each includes a business objective, inputs, step-by-step process, reusable GPT-6 Astra instruction and human-review checkpoint.
+This first release contains **16 practical workflow templates**. Each includes a business objective, inputs, step-by-step process, reusable GPT-6 Astra instruction and human-review checkpoint.
 
 ## Workflow library
 
